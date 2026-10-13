@@ -1,1 +1,1 @@
-{"name":"tiktok-checker","version":"1.0.0","private":true,"scripts":{"start":"node server.js"},"engines":{"node":">=18"}}
+{"name":"tiktok-checker","version":"1.0.0","private":true,"scripts":{"start":"node local-server.js"},"engines":{"node":">=18"}}
